@@ -9,9 +9,11 @@ print("                                                 #           #           
 print("                                                 #   Python  #                               ");
 print("                                                 #           #                               ");
 print("                                                 #############                               ");
+print("###################################### Aula 02 ###############################################");
 print("1+1=2");
 teste = 10;
 print(teste);
 teste = "Agora é uma string";
 print(teste);
-
+nome = input("Digite seu nome: ");
+print("Olá, " + nome + "! Bem-vindo à aula de Python!");
