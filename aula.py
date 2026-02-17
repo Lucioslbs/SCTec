@@ -9,4 +9,9 @@ print("                                                 #           #           
 print("                                                 #   Python  #                               ");
 print("                                                 #           #                               ");
 print("                                                 #############                               ");
+print("1+1=2");
+teste = 10;
+print(teste);
+teste = "Agora é uma string";
+print(teste);
 
